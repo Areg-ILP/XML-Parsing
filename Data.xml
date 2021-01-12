@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <user id="78ab5caf-2029-4daf-9ae6-11657c3a1d78">
+    <name>Areg</name>
+    <surname>Gevorgyan</surname>
+  </user>
+  <user id="8d9978ae-8ac7-40ef-a29b-5768a137b62d">
+    <name>Karen</name>
+    <surname>Karapetyan</surname>
+  </user>
+  <user id="56c306a8-c61b-4af9-9094-9bac9043e554">
+    <name>Artak</name>
+    <surname>Gevorgyan</surname>
+  </user>
+  <user id="aea59b7c-12a0-430b-8fa5-509e8426cafa">
+    <name>Tyom</name>
+    <surname>Petrosyan</surname>
+  </user>
+  <user id="67a29447-bd04-4c40-a8fd-d1e35194619a">
+    <name>Karen</name>
+    <surname>Sargsyan</surname>
+  </user>
+  <user id="5d159d09-34b4-493c-be6e-579d331705d2">
+    <name>Aram</name>
+    <surname>Hayrapetyan</surname>
+  </user>
+</root>
