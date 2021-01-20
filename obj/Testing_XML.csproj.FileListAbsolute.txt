@@ -1,0 +1,12 @@
+C:\Users\Areg\Source\Repos\Testing_XML\bin\Debug\Testing_XML.exe.config
+C:\Users\Areg\Source\Repos\Testing_XML\bin\Debug\Testing_XML.exe
+C:\Users\Areg\Source\Repos\Testing_XML\bin\Debug\Testing_XML.pdb
+C:\Users\Areg\Source\Repos\Testing_XML\obj\Debug\Testing_XML.MainForm.resources
+C:\Users\Areg\Source\Repos\Testing_XML\obj\Debug\Testing_XML.Properties.Resources.resources
+C:\Users\Areg\Source\Repos\Testing_XML\obj\Debug\Testing_XML.csproj.GenerateResource.cache
+C:\Users\Areg\Source\Repos\Testing_XML\obj\Debug\Testing_XML.csproj.CoreCompileInputs.cache
+C:\Users\Areg\Source\Repos\Testing_XML\obj\Debug\Testing_XML.exe
+C:\Users\Areg\Source\Repos\Testing_XML\obj\Debug\Testing_XML.pdb
+C:\Users\Areg\Source\Repos\Testing_XML\obj\Debug\Testing_XML.csprojAssemblyReference.cache
+C:\Users\Areg\Source\Repos\Testing_XML\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Areg\Source\Repos\Testing_XML\obj\Debug\Testing_XML.csproj.CopyComplete
